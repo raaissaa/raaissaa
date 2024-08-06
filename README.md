@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil 💜
 ________________________________________________________________________________________________
 
-Meu nome é Raisa Benso de Quadros
+Meu nome é Raissa Benso de Quadros
 
 - Estou estudando na [Alura](http://alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
